@@ -1,9 +1,4 @@
 # fuzzy-bassoon
+This is not a test 💀
 
-
-I love fuzzy bassons lol
-
-
-whoops i fixed the error lol!
-
-pull this1
+get out
