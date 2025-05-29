@@ -28,7 +28,7 @@ int main (int argc, const char** argv){
     crypt->random = arc4random_uniform(10000);
     printf("Hello what is your string?\n");
     scanf("%99s", crypt->string);
-    printf("\n which algorithem do you want \n 1 = sha512\n2=sha384\n3=sha256\n");
+    printf("\n which algorithem do you want \n 1 = sha512\n2=sha384\n3=sha256\n\n");
     scanf("%i",tmp);
     switch (*tmp){
         case 1 :{
